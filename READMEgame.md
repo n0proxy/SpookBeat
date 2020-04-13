@@ -1,5 +1,4 @@
-# SpookyBeatz
-## Gameplay Guide
+# SpookyBeatz Gameplay Guide
 SpookyBeatz is a 2D, top-down adventure-puzzle game with a battling system that uses rhythm game mechanics. You are **Doug**, a ghost who awakens to the realization that your prized guitar has been stolen by the local Ghost Gang, and you set out to recover your instrument and save the locals from the menacing gang!
 
 ### Overworld Controls
